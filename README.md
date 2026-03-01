@@ -133,5 +133,6 @@ Monitor return rates to improve product quality and logistics.
 
 6️⃣ Screenshots / Demos
 <img width="898" height="505" alt="image" src="https://github.com/user-attachments/assets/d69ba2f9-6781-4856-bc8c-b667cafbbe84" />
+<img width="914" height="541" alt="image" src="https://github.com/user-attachments/assets/0fa1819d-01ae-49c3-9641-831ff20104b1" />
 
 
